@@ -115,10 +115,9 @@ function uniquifyArray(wordsUnique) {
     }
   })
   return uniqueArray;
-
 }
 
-
+uniquifyArray(wordsUnique);
 
 // Iteration #6: Find elements
 const wordsFind = ['machine', 'subset', 'trouble', 'starting', 'matter', 'eating', 'truth', 'disobedience'];
